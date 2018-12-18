@@ -266,3 +266,6 @@ superbrain.web/obj/
 superbrain.web/bin/
 /.vs
 superbrain.web/ClientApp/node_modules
+ebrain.admin.web/package-lock.json
+ebrain.admin.web/ClientApp/package-lock.json
+ebrain.admin.web/ClientApp/package-lock.json
